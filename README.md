@@ -1,8 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=1D243D&height=300&section=header&text=Welcome&fontColor=FFFFFF&fontSize=80&animation=fadeIn)
 ### Hi there 👋
 
 <!--
 **taehoon030/taehoon030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
