@@ -4,13 +4,13 @@
 
 <div align="center">
   <h2> 👋 Hello!</h2>
-  Welcom to my GitHub!
+  Welcome to my GitHub! 😎
 </div>
 <br>
 
 
 <div align="center">
-  <h2>🔧 Tech Stack</h2>
+  <h2>🛠️ Tech Stack</h2>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
@@ -38,5 +38,5 @@
   <h2> 📫 Contact </h2>
   <a href="mailto:taehoondev030@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  </a>  
 </div>
