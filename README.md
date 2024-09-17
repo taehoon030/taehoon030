@@ -1,16 +1,36 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1D243D&height=300&section=header&text=Welcome&fontColor=FFFFFF&fontSize=80&animation=fadeIn)
-### Hi there 👋
-
 <!--
-**taehoon030/taehoon030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+![Header](https://your-image-link.com) <!-- 배너 이미지를 여기에 삽입하세요 -->
+-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hello! 
+Welcom to my GitHub
+
+## 🔧 Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>  
+</div>
+
+## ✏️ I'm studying
+<div align='center'>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</div>
+ 
+## 📊 Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taehoon030&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taehoon030&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+## 📫 Contact
+<div align="center">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</div>
+
+---
+<!--
+> "인내는 쓰지만 그 열매는 달다." - 아리스토텔레스
 -->
