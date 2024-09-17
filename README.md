@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/fd602fb7-033e-4960-ac9a-f61671d4904c" width="800" height="450"/>  
+</div>
+
+<div align="center">
   <h2> 👋 Hello!</h2>
   Welcom to my GitHub!
 </div>
