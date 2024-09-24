@@ -3,6 +3,10 @@
   <img src="https://github.com/user-attachments/assets/fd602fb7-033e-4960-ac9a-f61671d4904c" width="500" height="300"/>  
 </div>
 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Taehoon's%20GitHub&fontSize=40" />
+</div>
+
 
 <div align="center">
   <h2> 👋 Hello!</h2>
